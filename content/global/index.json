@@ -31,7 +31,7 @@
   },
   "theme": {
     "color": "blue",
-    "font": "cooper",
+    "font": "serif",
     "icon": "boxicon",
     "darkMode": "system"
   }
