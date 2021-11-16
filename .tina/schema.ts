@@ -582,6 +582,14 @@ export default defineSchema({
                   label: "Lato",
                   value: "lato",
                 },
+                {
+                  label: "Cooper Hewitt",
+                  value: "cooper",
+                },
+                {
+                  label: "Source Serif Pro",
+                  value: "serif",
+                },
               ],
             },
             {
